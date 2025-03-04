@@ -1,6 +1,8 @@
 # Setup:
 ### 1. Install docker, run it, and then pull th latest image from docker!
-- docker pull container-registry.oracle.com/database/express:latest
+````
+docker pull container-registry.oracle.com/database/express:latest
+````
 - If you don’t have an Oracle account, you’ll need to create one and accept the license agreement for the image.
 
 ### 2. Run Two Oracle Database Containers:
