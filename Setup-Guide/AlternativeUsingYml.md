@@ -1,5 +1,6 @@
 ### Alternatively, there is a docker-compose.yml file. 
-Run the following command in the same directory as your docker-compose.yml file:
+Run the following command in the same directory as your docker-compose.yml file
+(in this case, go to the **Infrastructure** directory)
 ### Start the containers:
 #### bash:
 ````
